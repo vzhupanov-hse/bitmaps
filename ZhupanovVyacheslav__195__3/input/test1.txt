@@ -1,0 +1,6 @@
+FactResellerSales.SalesOrderNumber,FactResellerSales.OrderDateKey,FactResellerSales.ProductKey
+4
+DimCurrency.CurrencyKey > 15
+DimDate.EnglishMonthName = 'March'
+DimEmployee.SickLeaveHours > 30
+DimProduct.ReorderPoint <> 0

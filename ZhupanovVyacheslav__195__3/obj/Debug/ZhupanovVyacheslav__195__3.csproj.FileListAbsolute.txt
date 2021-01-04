@@ -1,0 +1,7 @@
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\bin\Debug\ZhupanovVyacheslav__195__3.exe.config
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\bin\Debug\ZhupanovVyacheslav__195__3.exe
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\bin\Debug\ZhupanovVyacheslav__195__3.pdb
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\obj\Debug\ZhupanovVyacheslav__195__3.csprojAssemblyReference.cache
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\obj\Debug\ZhupanovVyacheslav__195__3.csproj.CoreCompileInputs.cache
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\obj\Debug\ZhupanovVyacheslav__195__3.exe
+C:\Жупанов\ZhupanovVyacheslav__195__3\ZhupanovVyacheslav__195__3\obj\Debug\ZhupanovVyacheslav__195__3.pdb

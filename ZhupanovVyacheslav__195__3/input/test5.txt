@@ -1,0 +1,5 @@
+FactResellerSales.OrderDateKey,FactResellerSales.SalesOrderLineNumber,FactResellerSales.ProductKey
+3
+DimReseller.BankName <> 'Guardian Bank'
+FactResellerSales.CarrierTrackingNumber <> 'A89C-4D25-B9'
+FactResellerSales.OrderQuantity > 5

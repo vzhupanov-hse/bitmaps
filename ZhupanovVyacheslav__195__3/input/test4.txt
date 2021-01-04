@@ -1,0 +1,7 @@
+FactResellerSales.SalesOrderLineNumber,FactResellerSales.EmployeeKey
+5
+DimProduct.Color <> 'Silver'
+DimProduct.SizeRange = 'NA'
+DimReseller.YearOpened > 2000
+DimProduct.DaysToManufacture <> 0
+DimReseller.NumberEmployees < 50

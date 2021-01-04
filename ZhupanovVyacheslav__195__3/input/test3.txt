@@ -1,0 +1,6 @@
+FactResellerSales.SalesOrderNumber,FactResellerSales.OrderDateKey,FactResellerSales.ProductKey
+4
+DimEmployee.FirstName <> 'David'
+DimEmployee.VacationHours > 20
+DimEmployee.SickLeaveHours < 80
+DimProduct.Color = 'NA'

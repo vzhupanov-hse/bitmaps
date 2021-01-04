@@ -1,0 +1,6 @@
+FactResellerSales.SalesOrderNumber,FactResellerSales.OrderDateKey,FactResellerSales.ProductKey
+4
+DimPromotion.MinQty = 0
+DimReseller.YearOpened > 1990
+DimSalesTerritory.SalesTerritoryGroup = 'North America'
+DimEmployee.DepartmentName <> 'Marketing'
